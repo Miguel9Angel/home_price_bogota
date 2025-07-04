@@ -53,21 +53,23 @@ jupyter notebook notebooks/eda_modelo_final.ipynb
 
 ## 📁 Estructura del repositorio
 
+```text
 HOME_PRICE_BOGOTA/
-├── assets/                          
+├── assets/                         
 │   └── aparments_by_price_bogota.png
 │
-├── data/                            
-│   ├── Real_State_Bogota.csv        
-│   └── localidades_Bogota.json      
+├── data/
+│   ├── Real_State_Bogota.csv
+│   └── localidades_Bogota.json
 │
-├── notebooks/                       
-│   ├── apto_analisis_bogota.ipynb   
-│   └── house_price_scraping_bogota.ipynb  
+├── notebooks/
+│   ├── apto_analisis_bogota.ipynb
+│   └── house_price_scraping_bogota.ipynb
 │
-├── requirements.txt                 
-├── README.md                        
-├── LICENSE                          
+├── requirements.txt
+├── README.md
+└── LICENSE
+```                          
 
 ## 📜 Licencia
 
