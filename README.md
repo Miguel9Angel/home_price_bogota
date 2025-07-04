@@ -52,20 +52,22 @@ pip install -r requirements.txt
 jupyter notebook notebooks/eda_modelo_final.ipynb
 
 ## 📁 Estructura del repositorio
+
 HOME_PRICE_BOGOTA/
-├── assets/ # Imágenes y visualizaciones para el README
-│ └── aparments_by_price_bogota.png
+├── assets/                          
+│   └── aparments_by_price_bogota.png
 │
-├── data/ # Datos en crudo y procesados
-│ ├── Real_State_Bogota.csv
-│ └── localidades_Bogota.json
+├── data/                            
+│   ├── Real_State_Bogota.csv        
+│   └── localidades_Bogota.json      
 │
-├── notebooks/ # Notebooks del análisis y scraping
-│ ├── apto_analisis_bogota.ipynb
-│ └── house_price_scraping_bogota.ipynb
+├── notebooks/                       
+│   ├── apto_analisis_bogota.ipynb   
+│   └── house_price_scraping_bogota.ipynb  
 │
-├── requirements.txt # Dependencias del proyecto
-├── README.md # Documentación principal del repositorio
+├── requirements.txt                 
+├── README.md                        
+├── LICENSE                          
 
 ## 📜 Licencia
 
