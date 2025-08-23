@@ -52,6 +52,7 @@ pip install -r requirements.txt
 jupyter notebook notebooks/eda_modelo_final.ipynb
 
 ## 📁 Estructura del repositorio
+```
 HOME_PRICE_BOGOTA/
 ├── assets/ # Imágenes y visualizaciones para el README
 │ └── aparments_by_price_bogota.png
@@ -66,7 +67,7 @@ HOME_PRICE_BOGOTA/
 │
 ├── requirements.txt # Dependencias del proyecto
 ├── README.md # Documentación principal del repositorio
-
+```
 ## 📜 Licencia
 
 Este proyecto está licenciado bajo la [Licencia MIT](./LICENSE).  
